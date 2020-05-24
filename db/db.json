@@ -1,0 +1,147 @@
+{
+	"goods": [{
+		"title": "Game console Sony PlayStation 4 Pro",
+		"price": 33990,
+		"sale": false,
+		"img": "https://static.salery.ru/offers/65/6558ddce2c29ce72141b7e9237f6e6bf.jpeg",
+		"category": "Game console"
+	}, {
+		"title": "Game console Sony PlayStation 3 Super Slim",
+		"price": 16499,
+		"sale": true,
+		"img": "https://i.ebayimg.com/images/g/8rAAAOSwcUBYPELk/s-l300.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Game console Xbox One X",
+		"price": 39990,
+		"sale": false,
+		"img": "https://i.pinimg.com/236x/b1/1f/4a/b11f4ad04f3595e1473c6a56b3ba2974.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Game console Xbox One S",
+		"price": 23411,
+		"sale": true,
+		"img": "https://cs4.pikabu.ru/post_img/2016/06/16/6/1466070134181461217.png",
+		"category": "Game console"
+	}, {
+		"title": "Game console Nintendo Switch",
+		"price": 24751,
+		"sale": false,
+		"img": "https://avatars.mds.yandex.net/get-mpic/1362400/img_id9052413779702805154.jpeg/orig",
+		"category": "Game console"
+	}, {
+		"title": "Game console Sega Retro Genesis HD",
+		"price": 3624,
+		"sale": true,
+		"img": "https://hr-ugoria.ru/images/yygpKbDS1y8uSSzJTNYryElNLdIrKtXP1E8v0DczNtS3NDXUz8svytXLKkjPKNItTc8vykwEqgAA.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Game console Dendy Junior",
+		"price": 1551,
+		"sale": true,
+		"img": "https://cdn.verro.ru/img/4/d7/72/igrovaya-pristavka-Dendy-Simba-s-Junior-8bit-m345191.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Game console Sony PlayStation Classic",
+		"price": 10445,
+		"sale": false,
+		"img": "https://images.curved.de/article_detail_md/2018/09/playstation-classic.jpg",
+		"category": "Game console"
+	}, {
+		"title": "Keyboard Logitech Wireless Keyboard K360",
+		"price": 2390,
+		"sale": false,
+		"img": "https://avatars.mds.yandex.net/get-marketpic/987310/market_9V5C-vi-AYfxR9UumJ-jsQ/orig",
+		"category": "PC peripherals"
+	}, {
+		"title": "Keyboard Defender Element HB-195",
+		"price": 566,
+		"sale": true,
+		"img": "https://static.nix.ru/images/Defender-HB-195-4230482254.jpg?good_id=423048&width=360&height=360&view_id=2254",
+		"category": "PC peripherals"
+	}, {
+		"title": "Gaming Keyboard Steelseries Apex M750- RU",
+		"price": 12848,
+		"sale": true,
+		"img": "https://i2.cdscdn.com/pdt2/6/5/7/1/300x300/ste5707119033657/rw/steelseries-apex-m750-clavier-backlit-usb-disposit.jpg",
+		"category": "PC peripherals"
+	}, {
+		"title": "Mouse + mat A4Tech Bloody V7M+B-071",
+		"price": 1649,
+		"sale": false,
+		"img": "https://164204.selcdn.ru/vegoo/792875_1.jpg",
+		"category": "PC peripherals"
+	}, {
+		"title": "Mouse Trust Varo",
+		"price": 1097,
+		"sale": true,
+		"img": "https://images.ua.prom.st/1881333126_w640_h640_mysh-trust-varo.jpg",
+		"category": "PC peripherals"
+	}, {
+		"title": "Mouse Genius DX-120",
+		"price": 350,
+		"sale": false,
+		"img": "https://brandpost.co.nz/wp-content/uploads/DX-120-1-324x324.jpg",
+		"category": "PC peripherals"
+	}, {
+		"title": "Mouse mat Orico MPA9040",
+		"price": 1279,
+		"sale": true,
+		"img": "https://fast.just.ru/xl_pics/802722_3.jpg",
+		"category": "PC peripherals"
+	}, {
+		"title": "Mouse mat Trust GXT 760 Glide RGB",
+		"price": 4959,
+		"sale": false,
+		"img": "https://i1.foxtrot.com.ua/product/MediumImages/6370949_1.jpg",
+		"category": "PC peripherals"
+	}, {
+		"title": "Metro: Exodus",
+		"price": 1479,
+		"sale": true,
+		"img": "https://torrentindir.org/wp-content/uploads/2019/01/metro-exodus-torrent-indir-onecikan-1.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Darksiders III. Collector's edition",
+		"price": 3990,
+		"sale": false,
+		"img": "https://avatars.mds.yandex.net/get-mpic/1417902/img_id212038719641055023.png/orig",
+		"category": "Games and software"
+	}, {
+		"title": "Mortal Kombat X",
+		"price": 1076,
+		"sale": false,
+		"img": "https://pp.userapi.com/c849120/v849120914/11501e/bRVSNwZhS_o.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Microsoft Windows 10 Pro (32/64-bit)",
+		"price": 9412,
+		"sale": false,
+		"img": "https://www.eurosupplies.com.gr/media/photo/FQC-08963.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "1C: Enterprise 8.3. Version for teaching programming",
+		"price": 560,
+		"sale": true,
+		"img": "http://up2erp.today/wp-content/uploads/2015/12/IMG_5075.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "ABBYY FotoTranslate",
+		"price": 805,
+		"sale": false,
+		"img": "http://www.bpstore.ru/images/g/24/4024/G924024.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Destiny (Xbox 360)",
+		"price": 723,
+		"sale": true,
+		"img": "https://www.comprasparaguai.com.br/media/fotos/modelos/game_destiny_xbox_360_46134_550x550.jpg",
+		"category": "Games and software"
+	}, {
+		"title": "Onrush (PS4 Sony)",
+		"price": 1794,
+		"sale": true,
+		"img": "https://img-trendyol.mncdn.com/Assets/ProductImages/oa/54/3739679/1/885370902297al39_1_org_zoom.jpg",
+		"category": "Games and software"
+	}]
+}
